@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Kotlin-BLE-sample</string>
+    <string name="scan_bt_btn">Scan bluetooth device</string>
 </resources>
